@@ -17,3 +17,18 @@ td , tr{
     padding: 10px;
 
 }
+
+.form3 {
+
+    border-collapse: collapse;
+    height: auto;
+    width: '100vh';
+    margin: auto;
+    text-align: left;
+   
+}
+
+.form3T{
+    border-bottom: 1px solid gray;
+    border: none;
+}
